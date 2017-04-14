@@ -1,4 +1,4 @@
-# searching string for matching with expression
+
 import re
 
 line = "Cats are smarter than dogs";
